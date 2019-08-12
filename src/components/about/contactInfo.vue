@@ -1,9 +1,9 @@
 <template>
     <v-container class="pa-0 my-0">
         <v-layout wrap align-start justify-start row fill-height class="my-0" >
-     
+
             <v-flex xs12 md8 lg8 class="pa-2 my-0">
-                <p class="google-font" style="font-size:180%;color:#0277bd">Community Guidelines</p>
+                <p class="google-font" style="font-size:180%;color:#0277bd">Gu&iacute;a de la Comunidad</p>
 
                 <v-expansion-panel >
                     <v-expansion-panel-content
@@ -16,8 +16,8 @@
                         </v-card>
                     </v-expansion-panel-content>
                 </v-expansion-panel>
-            </v-flex> 
-           
+            </v-flex>
+
             <v-flex xs12 md4 lg4 class="pa-2 hidden-sm-and-down">
                 <v-img
                     :src="require('@/assets/img/svg/bg.svg')"

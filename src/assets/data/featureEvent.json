@@ -1,21 +1,20 @@
 {
-    "FeatureEventName":"IWD'19 Jalandhar",
-    "EventImage":"IWD.jpg",
+    "FeatureEventName":"Kotlin Everywhere San Salvador 2019",
+    "EventImage":"kotlineverywheress2019.jpg",
     "EventDate":{
-        "Date":"31",
-        "Month":"3",
+        "Date":"5",
+        "Month":"10",
         "Year":"2019"
     },
     "EventTime":{
         "StartTime":"09:00 AM",
-        "EndTime":"04:30 PM"
+        "EndTime":"05:00 PM"
     },
-    "EventVenue":"Apeejay Institute of Management Technical Campus, Rama Mandi, Hoshiarpur Road, Jalandhar",
-    "EventVenueMapLink":"https://goo.gl/maps/4Z8pminYsp42",
-    "EventWebsite":"https://iwd.gdgjalandhar.com/",
-    "EventDescription":"International Women's Day (IWD) is marked on March 8th every year. In different regions, the focus of celebrations ranges from general respect and appreciation for women to a celebration of women's economic, political, and social achievements.",
-    "MeetupLink":"https://www.meetup.com/GDG-Jalandhar/events/253165595/",
-    "RegistrationLink":"https://docs.google.com/forms/d/e/1FAIpQLSciM-nL87uQd_it2ulou1mFv55aXqE9qSSnwL3No3fWhX8OzA/closedform",
-    "FBEventPageURL":"s"
+    "EventVenue":"A definirse.",
+    "EventVenueMapLink":"#",
+    "EventWebsite":"#",
+    "EventDescription":"Kotlin Everywhere es un evento en donde aprenderás sobre este lenguaje de programación de última generación que ha sido nombrado por Google el lenguaje predilecto para Desarrollo Android y que también te permite programar para la Web soportando Javascript, puedes crear back-ends y web services e inclusive usar Kotlin Multiplatform para desarrollar apps para iOS.",
+    "MeetupLink":"https://www.meetup.com/GDG-SanSalvador/events/262321457/",
+    "RegistrationLink":"#",
+    "FBEventPageURL":"https://www.facebook.com/events/2446217765613657/"
 }
-

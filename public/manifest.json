@@ -1,6 +1,6 @@
 {
-  "name": "GDG Web App",
-  "short_name": "GDG Web App",
+  "name": "GDG San Salvador",
+  "short_name": "GDG San Salvador",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
@@ -17,5 +17,5 @@
   "display": "standalone",
   "background_color": "#ffff",
   "theme_color": "#0277bd",
-  "description": "Aura is the website template that helps you to set GDG's Communities website with events, team and management in a few minutes."
+  "description": "Aura es una plantilla para sitios web que ayuda tu comunidad de GDG a crear su sitio con eventos y miembros del equipo organizador en pocos minutos."
 }

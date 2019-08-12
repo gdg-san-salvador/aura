@@ -1,6 +1,6 @@
 module.exports = {
   pwa: {
-    name: 'GDG Web App',
+    name: 'GDG San Salvador Web App',
     workboxPluginMode: 'InjectManifest',
     themeColor: '#4A90E2',
     workboxOptions: {

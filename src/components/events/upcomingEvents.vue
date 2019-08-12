@@ -11,26 +11,26 @@
                 flat
                 @click="errorAlert = false"
             >
-                Close
+                Cerrar
             </v-btn>
         </v-snackbar>
 
         <v-layout wrap align-center justify-center row fill-height class="mt-0 mb-0" >
            <v-flex xs12 md12 lg12 class="pa-2 mb-0">
-               <p class="google-font mb-0" style="font-size:170%;color:#0277bd">Upcoming Events</p>
+               <p class="google-font mb-0" style="font-size:170%;color:#0277bd">Pr&oacute;ximos eventos</p>
                <p class="google-font mt-0 mb-0" style="font-size:120%">
-                   Our events are open to newbies, developers, managers, and organizations who are interested in Google's technologies or use them as part of their projects.
-               </p>     
-            </v-flex> 
+                   Nuestros eventos están abiertos a entusiastas, estudiantes, desarrolladores en todo nivel profesional, gerentes y organizaciones que estén interesados en las tecnologías de Google o de otros gigantes de la industria y para usarlas como parte de sus proyectos personales o profesionales.
+               </p>
+            </v-flex>
         </v-layout>
 
         <v-layout wrap align-start justify-start row fill-height class="hidden-sm-and-down my-3" :style="{'background-image':'url('+require('@/assets/img/svg/bg.svg')+')'}" style="background-position:right">
 
             <v-flex xs12 sm6 md4 lg4 v-for="n in 3" :key="`4${n}`">
-                <v-card 
+                <v-card
                     flat
                     v-if="showLoader"
-                    class="ma-1 pa-1 my-0 elevation-0" 
+                    class="ma-1 pa-1 my-0 elevation-0"
                     style="border-radius:7px;">
 
                     <v-card-title class="mb-0">
@@ -43,19 +43,19 @@
                         </div>
                     </v-card-title>
 
-                   
+
                     <v-card-actions class="mt-0">
                         <v-spacer></v-spacer>
                         <span class="animate-shimmer" style="color:#424242;width:60px;height:25px;"></span>
                     </v-card-actions>
-                    
+
                 </v-card>
             </v-flex>
 
             <v-flex xs12 sm6 md4 lg4 v-for="(item,i) in eventsData" :key="i">
-                <v-card 
+                <v-card
                     flat
-                    class="ma-1 pa-1 my-0 elevation-0" 
+                    class="ma-1 pa-1 my-0 elevation-0"
                     style="border-radius:7px;border:1px #ddd solid">
 
                     <v-card-title class="mb-0">
@@ -70,19 +70,21 @@
                                 <v-icon>watch_later</v-icon>
                                 {{item.local_time}}
                             </p>
+                            <!--
                             <p class="google-font mt-1 mb-0" style="font-size:110%">
                                 <v-icon>map</v-icon>
                                 {{item.venue.name | summery(30)}}
                             </p>
+                            -->
                         </div>
                     </v-card-title>
 
-                   
+
                     <v-card-actions class="mt-0">
                         <v-spacer></v-spacer>
-                        <v-btn flat color="#4C4A78" :href="item.link" target="_blank" class="mb-0 ml-0 mt-0 google-font" style="border-radius:7px;text-transform: capitalize;">See More</v-btn> 
+                        <v-btn flat color="#4C4A78" :href="item.link" target="_blank" class="mb-0 ml-0 mt-0 google-font" style="border-radius:7px;text-transform: capitalize;">See More</v-btn>
                     </v-card-actions>
-                    
+
                 </v-card>
             </v-flex>
 
@@ -115,13 +117,13 @@
                                 <v-list-tile-action>
                                     <v-icon color="grey lighten-3">info</v-icon>
                                 </v-list-tile-action>
-                                
+
                             </v-list-tile>
                         </v-list>
                     </v-flex>
                 </v-layout>
             </v-flex>
-            
+
 
             <v-flex xs12>
                 <v-slide-y-reverse-transition>
@@ -147,11 +149,11 @@
                                     <v-btn icon ripple :href="item.link" target="_blank" slot="activator">
                                         <v-icon color="grey darken-1">info</v-icon>
                                     </v-btn>
-                                    
-                                    <span>See More about {{item.name}}</span>
+
+                                    <span>Ver m&aacute; sobre {{item.name}}</span>
                                 </v-tooltip>
                             </v-list-tile-action>
-                            
+
                         </v-list-tile>
 
                     </v-list>
@@ -159,7 +161,7 @@
             </v-flex>
 
             <v-flex xs12 v-if="notFoundUpcomingEventFlag==true">
-                <p class="google-font px-2" style="font-size:140%"><v-icon >highlight_off</v-icon> Upcoming Events Not Found!</p>
+                <p class="google-font px-2" style="font-size:140%"><v-icon >highlight_off</v-icon> No se encontraron eventos.</p>
             </v-flex>
 
         </v-layout>
@@ -193,7 +195,7 @@ export default {
                 this.showLoader = false
                 this.notFoundUpcomingEventFlag = true
             }
-            
+
         }).catch(e=>{
             this.showLoader = false
             this.errorMsg = 'Issue found with '+e
@@ -227,7 +229,7 @@ export default {
 
         -webkit-animation: AnimationName 5s ease infinite;
         -moz-animation: AnimationName 5s ease infinite;
-        animation: AnimationName 5s ease infinite;   
+        animation: AnimationName 5s ease infinite;
     };
 
     @-webkit-keyframes AnimationName {
@@ -242,11 +244,9 @@ export default {
         100%{background-position:0% 52%}
     }
 
-    @keyframes AnimationName { 
+    @keyframes AnimationName {
         0%{background-position:0% 52%}
         50%{background-position:100% 49%}
         100%{background-position:0% 52%}
     }
 </style>
-
-

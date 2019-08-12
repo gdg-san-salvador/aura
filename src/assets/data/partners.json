@@ -13,6 +13,11 @@
         "name":"GDG[x]",
         "link":"https://github.com/gdg-x",
         "img":"gdg-x.svg"
+    },
+    {
+        "name":"Jetbrains",
+        "link":"https://www.jetbrains.com/",
+        "img":"jetbrains-variant-4.svg"
     }
 
 ]

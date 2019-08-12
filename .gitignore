@@ -2,7 +2,8 @@
 node_modules
 /dist
 tempKey.js
-src/config/
+src/config/key.js
+.firebase/*.cache
 
 # local env files
 .env.local

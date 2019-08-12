@@ -1,23 +1,13 @@
 [
     {
-        "TechName":"Angular",
-        "image":"angular.svg",
-        "link":"https://angular.io/"
-    },
-    {
-        "TechName":"Google Cloud Platform",
-        "image":"gcp.svg",
-        "link":"https://cloud.google.com/"
-    },
-    {
         "TechName":"Android",
         "image":"android.svg",
         "link":"https://www.android.com/"
     },
     {
-        "TechName":"Actions On Google",
-        "image":"aog.png",
-        "link":"https://developers.google.com/actions/"
+        "TechName":"Kotlin",
+        "image":"kotlin.svg",
+        "link":"https://kotlinlang.org/"
     },
     {
         "TechName":"Firebase",
@@ -25,8 +15,23 @@
         "link":"https://firebase.google.com/"
     },
     {
+        "TechName":"Google Cloud Platform",
+        "image":"gcp.svg",
+        "link":"https://cloud.google.com/"
+    },
+    {
+        "TechName":"Actions On Google",
+        "image":"aog.png",
+        "link":"https://developers.google.com/actions/"
+    },
+    {
         "TechName":"TensorFlow",
         "image":"tf.svg",
         "link":"https://www.tensorflow.org/"
+    },
+    {
+        "TechName":"Angular",
+        "image":"angular.svg",
+        "link":"https://angular.io/"
     }
 ]

@@ -17,13 +17,13 @@
 
         <v-layout wrap align-center justify-center row fill-height class="mt-0 mb-0" >
            <v-flex xs12 md12 lg12 class="pa-2 mb-0">
-               <p class="google-font mb-0" style="font-size:170%;color:#0277bd">Directory of past events</p>
+               <p class="google-font mb-0" style="font-size:170%;color:#0277bd">Eventos anteriores</p>
                <p class="google-font mt-0 mb-0" style="font-size:110%;color:#616161 ">
-                   Events are listed in reverse chronological order by date.
-               </p>     
-               <p class="google-font" style="font-size:110%;color:#616161 ">Here are the recent 10 meetups. To know more about the past meetups <a :href="chapterDetails.ChapterMeetupLink" target="_blank" style="text-decoration:none;color:#0277bd">Click here</a></p>
+                   Los eventos est&aacute;n listados desde el m&aacute;s reciente al m&aacute;s antiguo.
+               </p>
+               <p class="google-font" style="font-size:110%;color:#616161 ">Aqu&iacute; estar&aacute;n &uacute;ltimos 10 meetups. Para ver m&aacute;s <a :href="chapterDetails.ChapterMeetupLink" target="_blank" style="text-decoration:none;color:#0277bd">haz click aq&iacute;</a></p>
 
-            </v-flex> 
+            </v-flex>
         </v-layout>
 
         <v-layout wrap row >
@@ -49,13 +49,13 @@
                                 <v-list-tile-action>
                                     <v-icon color="grey lighten-3">info</v-icon>
                                 </v-list-tile-action>
-                                
+
                             </v-list-tile>
                         </v-list>
                     </v-flex>
                 </v-layout>
             </v-flex>
-           
+
 
             <v-flex xs12 sm6 md4 lg4 v-for="(item,i) in eventsData" :key="i">
                 <v-slide-y-reverse-transition>
@@ -80,13 +80,13 @@
                                     <v-btn icon ripple :href="item.link" target="_blank" slot="activator">
                                         <v-icon color="grey darken-1">info</v-icon>
                                     </v-btn>
-                                    
-                                    <span>See More about {{item.name}}</span>
+
+                                    <span>Ver m&aacute; sobre {{item.name}}</span>
                                 </v-tooltip>
                             </v-list-tile-action>
-                            
+
                         </v-list-tile>
-                        
+
 
                     </v-list>
                 </v-slide-y-reverse-transition>
@@ -96,7 +96,7 @@
                 <p class="google-font px-2" style="font-size:140%"><v-icon >highlight_off</v-icon> Past Events Not Found!</p>
             </v-flex>
 
-            
+
         </v-layout>
 
     </v-container>
@@ -127,7 +127,7 @@ export default {
                 this.notFoundPastEventFlag = true
                 this.showLoader = false
             }
-            
+
         }).catch(e=>{
             this.showLoader = false
             this.errorMsg = 'Issue found with '+e
@@ -160,6 +160,5 @@ export default {
 </script>
 
 <style scoped>
-    
-</style>
 
+</style>
