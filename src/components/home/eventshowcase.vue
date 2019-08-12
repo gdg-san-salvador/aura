@@ -21,7 +21,7 @@
                <p class="google-font" style="font-size:120%">
                    En sesiones que van desde lo técnico a lo visionario, descubrímos juntos lo que se puede hacer con diversas tecnologías: innovación, código abierto, Big Data, Machine Learning, Inteligencia Artificial y mucho más, y como estás puede ayudar a personas de todas las edades a superarse personal y profesionalmente, y a mejorar su calidad de vida y de cómo los desarrolladores podemos usar la tecnología para resolver los grandes problemas de nuestra sociedad.
                </p>
-               <router-link to="/events" flat color="#4C4A78" class="ma-0 google-font" style="border-radius:5px;text-transform: capitalize;text-decoration:none;color:#4C4A78">See More</router-link>
+               <router-link to="/events" flat color="#4C4A78" class="ma-0 google-font" style="border-radius:5px;text-transform: capitalize;text-decoration:none;color:#4C4A78">Ver M&aacute;s</router-link>
             </v-flex>
         </v-layout>
 
@@ -80,7 +80,7 @@
 
                      <v-card-actions class="mt-0">
                         <v-spacer></v-spacer>
-                        <v-btn flat color="#4C4A78" :href="item.link" target="_blank" class="mb-0 ml-0 mt-0 google-font" style="border-radius:7px;text-transform: capitalize;">See More</v-btn>
+                        <v-btn flat color="#4C4A78" :href="item.link" target="_blank" class="mb-0 ml-0 mt-0 google-font" style="border-radius:7px;text-transform: capitalize;">Ver M&aacute;s</v-btn>
                     </v-card-actions>
 
                 </v-card>
