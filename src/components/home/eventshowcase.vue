@@ -19,7 +19,7 @@
            <v-flex xs12 md9 lg9 class="pa-2 text-xs-center">
                <p class="google-font" style="font-size:170%">Nuestros Eventos & Meetups</p>
                <p class="google-font" style="font-size:120%">
-                   At sessions that span from the technical to the visionary, let’s celebrate and discover what the technologies can enable: how product innovation, open source, and ML and AI can propel enterprises forward and solve the big problems that impact all of us.
+                   En sesiones que van desde lo técnico a lo visionario, descubrímos juntos lo que se puede hacer con diversas tecnologías: innovación, código abierto, Big Data, Machine Learning, Inteligencia Artificial y mucho más, y como estás puede ayudar a personas de todas las edades a superarse personal y profesionalmente, y a mejorar su calidad de vida y de cómo los desarrolladores podemos usar la tecnología para resolver los grandes problemas de nuestra sociedad.
                </p>
                <router-link to="/events" flat color="#4C4A78" class="ma-0 google-font" style="border-radius:5px;text-transform: capitalize;text-decoration:none;color:#4C4A78">See More</router-link>
             </v-flex>
