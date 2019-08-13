@@ -30,6 +30,11 @@
         "link":"https://www.tensorflow.org/"
     },
     {
+        "TechName":"Flutter",
+        "image":"flutter.svg",
+        "link":"https://flutter.dev/"
+    },
+    {
         "TechName":"Angular",
         "image":"angular.svg",
         "link":"https://angular.io/"

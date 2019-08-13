@@ -31,6 +31,28 @@
             "Link" : "#"
         }
     ],
+    "DeveloperDocs":[
+        {
+            "LinkName" : "Android",
+            "Link" : "https://developer.android.com/docs"
+        },
+        {
+            "LinkName" : "Firebase",
+            "Link" : "https://firebase.google.com/docs"
+        },
+        {
+            "LinkName" : "Flutter",
+            "Link" : "https://flutter.dev/docs"
+        },
+        {
+            "LinkName" : "Google Cloud Platform",
+            "Link" : "https://cloud.google.com/docs/"
+        },
+        {
+            "LinkName" : "Angular",
+            "Link" : "https://angular.io/docs"
+        }
+    ],
     "DevConsole":[
         {
             "LinkName" : "Google API Console",
