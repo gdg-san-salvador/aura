@@ -18,10 +18,13 @@
                         <span>{{item.TechName}}</span>
                     </v-tooltip>
                 </span>
+                <br><br>
+
+                <p>Indice de <a href="https://developers.google.com/products/develop/" target="_blank">Productos para Desarrolladores</a></p>
 
                 <br><br>
 
-                <v-btn :href="chapterDetails.GDGProgramWebsite" outline target="_blank" round color="cyan" style="text-transform: capitalize;border-radius:5px;text-transform: capitalize;" flat  class="ml-0 google-font hidden-md-and-down" dark>Saber M&aacute;s</v-btn>
+                <v-btn :href="chapterDetails.GDGProgramWebsite" outline target="_blank" round color="cyan" style="text-transform: capitalize;border-radius:5px;text-transform: capitalize;" flat  class="ml-0 google-font hidden-md-and-down" dark>M&aacute;s sobre el Programa GDG</v-btn>
 
             </v-flex>
             <v-flex xs12 md9 lg9 class="">

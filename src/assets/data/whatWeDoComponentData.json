@@ -16,17 +16,17 @@
     },
     {
         "TechName":"Google Cloud Platform",
-        "image":"gcp.svg",
+        "image":"google-cloud-platform.svg",
         "link":"https://cloud.google.com/"
     },
     {
         "TechName":"Actions On Google",
-        "image":"aog.png",
+        "image":"actions-on-google.png",
         "link":"https://developers.google.com/actions/"
     },
     {
         "TechName":"TensorFlow",
-        "image":"tf.svg",
+        "image":"tensorflow.svg",
         "link":"https://www.tensorflow.org/"
     },
     {
@@ -40,8 +40,8 @@
         "link":"https://angular.io/"
     },
     {
-        "TechName":"Kubernetes",
-        "image":"kubernetes.svg",
-        "link":"https://kubernetes.io/"
+        "TechName":"Web",
+        "image":"web-fundamentals.png",
+        "link":"https://developers.google.com/web/"
     }
 ]

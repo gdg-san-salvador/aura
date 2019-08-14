@@ -35,8 +35,13 @@
         },
         {
             "name" : "Slack",
-            "link" : "https://gdgsansalvador.slack.com",
+            "link" : "http://bit.ly/gdgsansal-slack",
             "icon" : "fab fa-slack"
+        },
+        {
+            "name" : "YouTube",
+            "link" : "https://www.youtube.com/channel/UCLhDNZX-7mEt1aXkSpgcPWw",
+            "icon" : "fab fa-youtube"
         },
         {
             "name" : "Facebook",

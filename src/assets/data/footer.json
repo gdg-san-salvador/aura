@@ -5,16 +5,16 @@
             "Link":"/"
         },
         {
+            "LinkName":"Unirse",
+            "Link":"https://www.meetup.com/GDG-SanSalvador/"
+        },
+        {
             "LinkName":"Google Developers Groups",
             "Link":"https://developers.google.com/programs/community/gdg/"
         },
         {
-            "LinkName":"WomenTechamkers",
+            "LinkName":"WomenTechmakers",
             "Link":"https://www.womentechmakers.com/"
-        },
-        {
-            "LinkName":"Unirme",
-            "Link":"https://www.meetup.com/GDG-SanSalvador/"
         }
     ],
     "ChapterResourcesSession":[
@@ -24,11 +24,19 @@
         },
         {
             "LinkName" : "Quiero ser Speaker",
-            "Link" : "mailto:info@gdgsansalvador.dev"
+            "Link" : "http://bit.ly/gdgsscfp"
+        },
+        {
+          "LinkName" : "Quiero ser Voluntario(a)",
+          "Link" : "http://bit.ly/gdgssvolunteers"
+        },
+        {
+          "LinkName" : "Sugerir un Tema",
+          "Link" : "http://bit.ly/gdgsssuggestions"
         },
         {
             "LinkName" : "Media Kit",
-            "Link" : "#"
+            "Link" : "http://bit.ly/gdgsansal-media-kit"
         }
     ],
     "DeveloperDocs":[
