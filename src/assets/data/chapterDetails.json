@@ -34,6 +34,11 @@
             "icon" : "fab fa-github"
         },
         {
+            "name" : "Slack",
+            "link" : "https://gdgsansalvador.slack.com",
+            "icon" : "fab fa-slack"
+        },
+        {
             "name" : "Facebook",
             "link" : "https://www.facebook.com/gdgsansalvador",
             "icon" : "fab fa-facebook"
