@@ -2,46 +2,28 @@
     {
         "name":"Este podrías ser tu",
         "designation":"Voluntario(a)",
-        "twitter":"#",
-        "linkedin":"#",
-        "github":"#",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
         "profileImage":"avatar.png",
-        "website":"#"
+        "website":""
     },
     {
         "name":"Este podrías ser tu",
         "designation":"Voluntario(a)",
-        "twitter":"#",
-        "linkedin":"#",
-        "github":"#",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
         "profileImage":"avatar.png",
-        "website":"#"
+        "website":""
     },
     {
         "name":"Este podrías ser tu",
         "designation":"Voluntario(a)",
-        "twitter":"#",
-        "linkedin":"#",
-        "github":"#",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
         "profileImage":"avatar.png",
-        "website":"#"
-    },
-    {
-        "name":"Este podrías ser tu",
-        "designation":"Voluntario(a)",
-        "twitter":"#",
-        "linkedin":"#",
-        "github":"#",
-        "profileImage":"avatar.png",
-        "website":"#"
-    },
-    {
-        "name":"Este podrías ser tu",
-        "designation":"Voluntario(a)",
-        "twitter":"#",
-        "linkedin":"#",
-        "github":"#",
-        "profileImage":"avatar.png",
-        "website":"#"
+        "website":""
     }
 ]

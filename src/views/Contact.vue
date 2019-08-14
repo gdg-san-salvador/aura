@@ -6,8 +6,7 @@
 
           <p class="google-font mb-0 mt-3" style="font-size:200%;color:#616161">Contacta a {{ChapterDetails.ChapterName}}</p>
           <!-- <v-divider></v-divider> -->
-          <p class="google-font mt-3" style="font-size:110%">Nuestros eventos están abiertos a novatos, desarrolladores, gerentes y organizaciones que estén interesados en las tecnologías de Google o las usen como parte de sus proyectos.</p>
-
+          <p class="google-font mt-3" style="font-size:110%">Nuestros eventos est&aacute;n abiertos a novatos, desarrolladores, gerentes y organizaciones que est&eacute;n interesados en las tecnolog&iacute;as o herramientas de Google (y otros) o las usen como parte de sus proyectos.</p>
           <p class="google-font mb-0" style="font-size:130%">Social Media:</p>
           <p class="google-font mt-0 ml-0" style="font-size:130%" >
             <span v-for="(item,i) in ChapterDetails.socialLinks" :key="i">

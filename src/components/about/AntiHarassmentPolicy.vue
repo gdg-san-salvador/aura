@@ -6,56 +6,78 @@
                 <p class="google-font" style="font-size:180%;color:#0277bd">Pol&iacute;tica Anti-Acoso</p>
 
                 <p class="google-font" style="font-size:110%">
-                    <b style="font-size:120%;color: #2E2E2E;">Why do we have an official Anti-Harassment policy for {{chapterDetails.ChapterName}} events?</b>
-
+                    <b style="font-size:120%;color: #2E2E2E;">¿Por qu&eacute; tenemos una pol&iacute;tica sobre esto para {{chapterDetails.ChapterName}}?</b>
                     <ul class="mt-2" style="font-size:110%">
-                        <li class="google-font">It sets expectations for behavior at the event. Simply having an anti-harassment policy can prevent harassment.</li>
-                        <li class="google-font">It encourages people to attend who have had bad experiences at other events</li>
-                        <li class="google-font">It gives event staff/volunteers instructions on how to handle harassment quickly, with minimum amount of disruption for the event.</li>
+                        <li class="google-font">Para establecer expectativas sobre el comportamiento de los miembros de nuestra comunidad tanto en l&iacute;nea como en eventos presenciales. Simplemente tener una pol&iacute;tica contra el acoso puede evitar el acoso.</li>
+                        <li class="google-font">Alienta a las personas a asistir que hayan tenido malas experiencias en otros eventos.</li>
+                        <li class="google-font">Le da al personal del evento / voluntarios instrucciones sobre cómo manejar el acoso r&aacute;pidamente, con una cantidad mínima de interrupci&oacute;n para el evento.</li>
                     </ul>
                 </p>
 
                 <p class="google-font" style="font-size:110%">
-                    <b style="font-size:120%;color: #2E2E2E;">{{chapterDetails.ChapterName}} is dedicated to providing a harassment-free event experience for everyone, regardless of: </b>
+                    <b style="font-size:120%;color: #2E2E2E;">Sean tolerantes los unos con los otros</b>
+                    <br><br>
+                    Trata a todos con respeto. Participa reconociendo que todo el mundo merece estar aquí y cada uno de nosotros tiene derecho a disfrutar de nuestra experiencia sin temor de acoso, discriminación o condescendencia, ya sea flagrante o por medio de micro-agresiones.
+                </p>
 
+                <p class="google-font" style="font-size:110%">
+                    <b style="font-size:120%;color: #2E2E2E;">Si ves o escuchas algo, d&iacute;noslo</b>
+                    <br><br>
+                    El acoso no se tolera, y usted está facultado para comprometerse amablemente cuando usted o los demás son despreciados. Además, asuma la intención como positiva. La persona que te hace sentir incómoda puede no ser consciente de lo que están haciendo, y educadamente puedes hacerle notar su comportamiento.
+                </p>
+
+                <p class="google-font" style="font-size:110%">
+                    <b style="font-size:120%;color: #2E2E2E;">Pr&aacute;ctica diciendo "S&iacute; y..." el uno al otro</b>
+                    <br><br>
+                    Responder a algo con un "¡NO!" o exclamando "¡no, est&aacute;s equivocado(a)!" de inmediato, no es siempre lo mejor. Construye sobre las ideas del otro. Todos nos beneficiamos cuando creamos juntos.
+                </p>
+
+                <p class="google-font" style="font-size:110%">
+                    <b style="font-size:120%;color: #2E2E2E;">{{chapterDetails.ChapterName}} est&aacute; dedicado a proveer una experiencia libre de acoso para todos, no importando: </b>
                     <ul class="mt-2" style="font-size:110%">
-                        <li class="google-font">Gender</li>
-                        <li class="google-font">Sexual Orientation</li>
-                        <li class="google-font">Disability</li>
-                        <li class="google-font">Gender Identity</li>
-                        <li class="google-font">Age</li>
-                        <li class="google-font">Race</li>
-                        <li class="google-font">Religion</li>
-                        <li class="google-font">Nationality</li>
+                        <li class="google-font">Neurodiversidad</li>
+                        <li class="google-font">Carrera</li>
+                        <li class="google-font">Experiencia profesional</li>
+                        <li class="google-font">Raza</li>
+                        <li class="google-font">Nacionalidad</li>
+                        <li class="google-font">G&eacute;nero</li>
+                        <li class="google-font">Identidad de g&eacute;nero</li>
+                        <li class="google-font">Presentaci&oacute;n de g&eacute;nero</li>
+                        <li class="google-font">Orientaci&oacute;n sexual</li>
+                        <li class="google-font">A&ntilde;os de Edad</li>
+                        <li class="google-font">Tama&ntilde;o corporal</li>
+                        <li class="google-font">Diferentes habilidades</li>
+                        <li class="google-font">Apariencia</li>
+                        <li class="google-font">Religi&oacute;n</li>
+                        <li class="google-font">Embarazo</li>
                     </ul>
-
-                    <span class="google-font" style="font-size:110%">The above is not an exhaustive list -- we do not tolerate harassment of event spanarticipants in any form. </span>
+                    <span class="google-font" style="font-size:110%">La anterior no es una lista exhaustiva y podr&iaacute;a no incluir una situaci&oacute;n o conducta considerada como acoso -- no toleramos el acoso de los participantes en eventos y comunidades en l&iacute;nea de ninguna forma.</span>
                 </p>
-
-                <p class="google-font" style="font-size:120%">Sexual language and imagery is not appropriate for any event venue, including talks. Event participants violating these rules may be expelled from the event, and event banned from future events at the discretion of the event organizers/management. </p>
-
-                <p class="google-font" style="font-size:110%">Harassment includes (but is not limited to):
+                <p class="google-font" style="font-size:120%">El lenguaje y las imágenes sexuales no son apropiadas para ningún evento, incluidas las charlas. Los participantes del evento que violen estas reglas pueden ser expulsados del evento y se les impedirá participar en futuros eventos y hasta podrían ser elminiados de participar en conversaciones en línea en los canales de la comunidad, dicha decisión queda a discreción de los(as) organizadores(as) del evento y/o de la comunidad.</p>
+                <p class="google-font" style="font-size:110%">
+                  <b style="font-size:120%;color: #2E2E2E;">Tenemos una POLÍTICA DE CERO TOLERANCIA por acoso de cualquier tipo, incluyendo pero no limitado a:</b>
                     <ul class="mt-2" style="font-size:110%">
-                        <li class="google-font">Offensive verbal comments related to gender, sexual orientation, disability, gender identity, age, race, religion</li>
-                        <li class="google-font">The use or display of sexual images in public spaces</li>
-                        <li class="google-font">Deliberate intimidation</li>
-                        <li class="google-font">Stalking</li>
-                        <li class="google-font">Harassing photography or recording</li>
-                        <li class="google-font">Sustained disruption of talks or other events</li>
-                        <li class="google-font">Inappropriate physical contact</li>
-                        <li class="google-font">Unwelcome sexual attention</li>
+                        <li class="google-font">Acecho / seguimiento</li>
+                        <li class="google-font">Acosar con fotograf&iacute;a o grabaci&oacute;n</li>
+                        <li class="google-font">Intimidaci&oacute;n deliberada</li>
+                        <li class="google-font">Interrupci&oacute;n sostenida de las conversaciones u otros eventos</li>
+                        <li class="google-font">Comentarios escritos o verbales ofensivos</li>
+                        <li class="google-font">Imágenes sexuales en espacios públicos</li>
+                        <li class="google-font">Contacto f&iacute;sico inapropiado</li>
+                        <li class="google-font">Atenci&oacute;n sexual o física no deseada</li>
                     </ul>
                 </p>
 
-                <p class="google-font" style="font-size:120%">Participants asked to stop any harassing behavior are expected to comply immediately.
+                <p class="google-font" style="font-size:120%">
+                    <b style="font-size:120%;color: #2E2E2E;">Esperamos que los participantes a quienes se les llame la atenci&oacute;n a que detenan cualquier comportamiento de acoso de inmediato.</b>
                     <br><br>
-                    Exhibiting partners and guests are also subject to the anti-harassment policy. In particular, exhibitors and speakers should not use sexualized images, activities, or other material, or otherwise create a sexualized environment in their slide decks, exhibit material, exhibit staffing, promotional items or demo material.
+                    Te damos poder y te alentamos a reportar cualquier comportamiento que haga que t&uacute; u otros se sientan inc&oacute;modos. Ac&eacute;rcate confianza a un(a) organizador(a) o voluntario(a) de la comunidad y denuncia cualquier conducta irregular. Los organizadores investigar&aacute;n la situaci&oacute;n y tomar&aacute;n las acciones apropiadas.
+                    Estas acciones pueden incluir, el ayudar a los participantes agraviados a ponerse en contacto con la seguridad del local, PNC o CAM, proporcionar escoltas o, de otro modo, ayudar a que los que sufren el acoso puedan permanecer seguros durante la duración del evento.
                     <br><br>
-                    If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact an organizer or event volunteer immediately. Organizers and event volunteers may be identified by t-shirts or special badges/lanyards. Organizers will investigate the issue and take appropriate action. This may include helping participants contact venue security or local law enforcement, provide escorts, or otherwise assist these experiencing harassment to fell safe for the duration of the event.
+                    Cualquier persona que se comporte de manera desordenada, incurriendo en abuso o comportamiento inc&oacute;modo, o que de otro modo no cumpla con esta pol&iacute;tica, podr&aacute; ser eliminada de cualquier evento o rechazada su admisi&oacute;n (incluso a futuros eventos de la comunidad) en cualquier momento. Las personas que sean expulsadas de un evento pagado por una violaci&oacute;n de esta pol&iacute;tica no recibir&aacute;n un reembolso.
                     <br><br>
-                    Though we hope that we never have to invoke this policy, we believe that having this document helps everyone think a little more about how their actions and words affect the whole community, as well as individuals in the community.
+                    De verdad esperamos nunca tener que invocar esta pol&iacute;tica y aplicarla a alguno de los miembros de nuestra comunidad, pero creemos que tener este documento ayuda a todos a pensar un poco m&aacute;s sobre c&oacute;mo nuestras acciones y palabras afectan a toda la comunidad, as&iacute; como a los indiciduos que la conforman.
                 </p>
-
 
             </v-flex>
 
