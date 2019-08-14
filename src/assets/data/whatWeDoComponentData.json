@@ -38,5 +38,10 @@
         "TechName":"Angular",
         "image":"angular.svg",
         "link":"https://angular.io/"
+    },
+    {
+        "TechName":"Kubernetes",
+        "image":"kubernetes.svg",
+        "link":"https://kubernetes.io/"
     }
 ]

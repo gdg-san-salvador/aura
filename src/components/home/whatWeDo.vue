@@ -5,7 +5,7 @@
                <p class="google-font" style="font-size:180%">¿Qué hacemos?</p>
                <p class="google-font" style="font-size:110%">Los GDGs (Google Developer Groups) son para entusiastas, estudiantes y desarrolladores de todo nivel profesional, que estén interesados en aprender y en compartir sus conocimientos sobre tecnologías de Google para el desarrollo de software y hardware.</p>
 
-               <p class="google-font" style="font-size:110%">Estas son algunas de las tecnologías de Google de las que hablamos en nuestros meetups:</p>
+               <p class="google-font" style="font-size:110%">Estas son algunas de las tecnologías de Google y otros de las que hablamos en nuestros meetups:</p>
 
                 <span v-for="(item,i) in whatWeDoData" :key="i">
                     <v-tooltip bottom>

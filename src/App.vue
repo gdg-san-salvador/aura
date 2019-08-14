@@ -30,7 +30,7 @@
     <CoreToolbar/>
     <CoreDrawer/>
     <CoreView/>
-    
+
     <CoreFooter/>
     <BottomNav/>
   </v-app>
@@ -76,8 +76,8 @@ export default {
   methods:{
     showRefreshUI(e) {
       this.registration = e.detail;
-      this.snackBtnText = 'Refresh';
-      this.snackWithBtnText = 'New version available!';
+      this.snackBtnText = 'Refrescar';
+      this.snackWithBtnText = '¡Hay una nueva versión disponible!';
       this.snackWithButtons = true;
     },
     refreshApp() {
@@ -86,9 +86,9 @@ export default {
       this.registration.waiting.postMessage('skipWaiting');
     },
   }
-  
 
-  
+
+
 }
 </script>
 
