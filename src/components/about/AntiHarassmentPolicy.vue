@@ -69,7 +69,7 @@
                 </p>
 
                 <p class="google-font" style="font-size:120%">
-                    <b style="font-size:120%;color: #2E2E2E;">Esperamos que los participantes a quienes se les llame la atenci&oacute;n a que detenan cualquier comportamiento de acoso de inmediato.</b>
+                    <b style="font-size:120%;color: #2E2E2E;">Esperamos que los participantes a quienes se les llame la atenci&oacute;n para que detengan cualquier comportamiento de acoso, paren de hacerlo de inmediato.</b>
                     <br><br>
                     Te damos poder y te alentamos a reportar cualquier comportamiento que haga que t&uacute; u otros se sientan inc&oacute;modos. Ac&eacute;rcate confianza a un(a) organizador(a) o voluntario(a) de la comunidad y denuncia cualquier conducta irregular. Los organizadores investigar&aacute;n la situaci&oacute;n y tomar&aacute;n las acciones apropiadas.
                     Estas acciones pueden incluir, el ayudar a los participantes agraviados a ponerse en contacto con la seguridad del local, PNC o CAM, proporcionar escoltas o, de otro modo, ayudar a que los que sufren el acoso puedan permanecer seguros durante la duración del evento.
