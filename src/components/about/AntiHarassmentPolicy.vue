@@ -51,7 +51,7 @@
                         <li class="google-font">Religi&oacute;n</li>
                         <li class="google-font">Embarazo</li>
                     </ul>
-                    <span class="google-font" style="font-size:110%">La anterior no es una lista exhaustiva y podr&iaacute;a no incluir una situaci&oacute;n o conducta considerada como acoso -- no toleramos el acoso de los participantes en eventos y comunidades en l&iacute;nea de ninguna forma.</span>
+                    <span class="google-font" style="font-size:110%">La anterior no es una lista exhaustiva y podr&iacute;a no incluir una situaci&oacute;n o conducta considerada como acoso -- no toleramos el acoso de los participantes en eventos y comunidades en l&iacute;nea de ninguna forma.</span>
                 </p>
                 <p class="google-font" style="font-size:120%">El lenguaje y las imágenes sexuales no son apropiadas para ningún evento, incluidas las charlas. Los participantes del evento que violen estas reglas pueden ser expulsados del evento y se les impedirá participar en futuros eventos y hasta podrían ser elminiados de participar en conversaciones en línea en los canales de la comunidad, dicha decisión queda a discreción de los(as) organizadores(as) del evento y/o de la comunidad.</p>
                 <p class="google-font" style="font-size:110%">
