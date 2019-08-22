@@ -11,10 +11,10 @@
         "EndTime":"05:00 PM"
     },
     "EventVenue":"A definirse.",
-    "EventVenueMapLink":"#",
-    "EventWebsite":"#",
+    "EventVenueMapLink":"",
+    "EventWebsite":"https://gdgsansalvador.dev/kotlin",
     "EventDescription":"Kotlin Everywhere es un evento en donde aprenderás sobre este lenguaje de programación de última generación que ha sido nombrado por Google el lenguaje predilecto para Desarrollo Android y que también te permite programar para la Web soportando Javascript, puedes crear back-ends y web services e inclusive usar Kotlin Multiplatform para desarrollar apps para iOS.",
     "MeetupLink":"https://www.meetup.com/GDG-SanSalvador/events/262321457/",
-    "RegistrationLink":"#",
+    "RegistrationLink":"",
     "FBEventPageURL":"https://www.facebook.com/events/2446217765613657/"
 }
