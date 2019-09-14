@@ -10,11 +10,11 @@
         "StartTime":"09:00 AM",
         "EndTime":"05:00 PM"
     },
-    "EventVenue":"A definirse.",
-    "EventVenueMapLink":"",
+    "EventVenue":"Elaniin, Tech Company 101 Av Nte, Los Verde #517, Col. Escalón, San Salvador",
+    "EventVenueMapLink":"https://g.page/Elaniin",
     "EventWebsite":"https://gdgsansalvador.dev/kotlin",
     "EventDescription":"Kotlin Everywhere es un evento en donde aprenderás sobre este lenguaje de programación de última generación que ha sido nombrado por Google el lenguaje predilecto para Desarrollo Android y que también te permite programar para la Web soportando Javascript, puedes crear back-ends y web services e inclusive usar Kotlin Multiplatform para desarrollar apps para iOS.",
     "MeetupLink":"https://www.meetup.com/GDG-SanSalvador/events/262321457/",
-    "RegistrationLink":"",
+    "RegistrationLink":"https://www.meetup.com/GDG-SanSalvador/events/262321457/",
     "FBEventPageURL":"https://www.facebook.com/events/2446217765613657/"
 }
