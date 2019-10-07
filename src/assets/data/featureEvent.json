@@ -1,20 +1,20 @@
 {
-    "FeatureEventName":"Kotlin Everywhere San Salvador 2019",
-    "EventImage":"kotlineverywheress2019.jpg",
+    "FeatureEventName":"DevFest San Salvador 2019",
+    "EventImage":"devfestss2019.jpg",
     "EventDate":{
-        "Date":"5",
-        "Month":"10",
+        "Date":"9",
+        "Month":"11",
         "Year":"2019"
     },
     "EventTime":{
-        "StartTime":"09:00 AM",
-        "EndTime":"05:00 PM"
+        "StartTime":"08:00 AM",
+        "EndTime":"06:00 PM"
     },
-    "EventVenue":"Elaniin, Tech Company 101 Av Nte, Los Verde #517, Col. Escalón, San Salvador",
-    "EventVenueMapLink":"https://g.page/Elaniin",
-    "EventWebsite":"https://gdgsansalvador.dev/kotlin",
-    "EventDescription":"Kotlin Everywhere es un evento en donde aprenderás sobre este lenguaje de programación de última generación que ha sido nombrado por Google el lenguaje predilecto para Desarrollo Android y que también te permite programar para la Web soportando Javascript, puedes crear back-ends y web services e inclusive usar Kotlin Multiplatform para desarrollar apps para iOS.",
-    "MeetupLink":"https://www.meetup.com/GDG-SanSalvador/events/262321457/",
-    "RegistrationLink":"https://www.meetup.com/GDG-SanSalvador/events/262321457/",
-    "FBEventPageURL":"https://www.facebook.com/events/2446217765613657/"
+    "EventVenue":"Por anunciarse.",
+    "EventVenueMapLink":"#",
+    "EventWebsite":"https://devfest.gdgsansalvador.dev",
+    "EventDescription":"Los DevFest son una verdadera celebración de la comunidad tecnológica y queremos que todas la comunidades de Desarrolladores de El Salvador participen. Durante el evento, tendremos charlas por expertos en desarrollo de software locales e Internacionales, talleres para aprender a usar diversas tecnologías y un hackathon con atractivos premios.",
+    "MeetupLink":"https://www.meetup.com/GDG-SanSalvador/events/262332298/",
+    "RegistrationLink":"https://www.meetup.com/GDG-SanSalvador/events/262332298/",
+    "FBEventPageURL":"https://www.facebook.com/events/709091419549742/"
 }
