@@ -2,7 +2,7 @@
     "FeatureEventName":"DevFest San Salvador 2019",
     "EventImage":"devfestss2019.jpg",
     "EventDate":{
-        "Date":"9",
+        "Date":"23",
         "Month":"11",
         "Year":"2019"
     },
@@ -13,7 +13,7 @@
     "EventVenue":"Por anunciarse.",
     "EventVenueMapLink":"#",
     "EventWebsite":"https://devfest.gdgsansalvador.dev",
-    "EventDescription":"Los DevFest son una verdadera celebración de la comunidad tecnológica y queremos que todas la comunidades de Desarrolladores de El Salvador participen. Durante el evento, tendremos charlas por expertos en desarrollo de software locales e Internacionales, talleres para aprender a usar diversas tecnologías y un hackathon con atractivos premios.",
+    "EventDescription":"Los DevFest son una verdadera celebración de la comunidad tecnológica y queremos que todas la comunidades activas de Desarrolladores de El Salvador participen. Durante el evento, tendremos charlas por expertos en desarrollo de software locales e Internacionales, talleres para aprender a usar diversas tecnologías y un hackathon con atractivos premios.",
     "MeetupLink":"https://www.meetup.com/GDG-SanSalvador/events/262332298/",
     "RegistrationLink":"https://www.meetup.com/GDG-SanSalvador/events/262332298/",
     "FBEventPageURL":"https://www.facebook.com/events/709091419549742/"
