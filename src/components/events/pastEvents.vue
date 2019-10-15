@@ -17,11 +17,11 @@
 
         <v-layout wrap align-center justify-center row fill-height class="mt-0 mb-0" >
            <v-flex xs12 md12 lg12 class="pa-2 mb-0">
-               <p class="google-font mb-0" style="font-size:170%;color:#0277bd">Directory of past events</p>
+               <p class="google-font mb-0" style="font-size:170%;color:#0277bd">Eventos anteriores</p>
                <p class="google-font mt-0 mb-0" style="font-size:110%;color:#616161 ">
-                   Events are listed in reverse chronological order by date.
+                   Los eventos est&aacute;n listados desde el m&aacute;s reciente al m&aacute;s antiguo.
                </p>
-               <p class="google-font" style="font-size:110%;color:#616161 ">Here are the recent 10 meetups. To know more about the past meetups <a :href="chapterDetails.ChapterMeetupLink" target="_blank" style="text-decoration:none;color:#0277bd">Click here</a></p>
+               <p class="google-font" style="font-size:110%;color:#616161 ">Aqu&iacute; estar&aacute;n &uacute;ltimos 10 meetups. Para ver m&aacute;s <a :href="chapterDetails.ChapterMeetupLink" target="_blank" style="text-decoration:none;color:#0277bd">haz click aqu&iacute;</a></p>
 
             </v-flex>
         </v-layout>
@@ -81,7 +81,7 @@
                                         <v-icon color="grey darken-1">info</v-icon>
                                     </v-btn>
 
-                                    <span>See More about {{item.name}}</span>
+                                    <span>Ver m&aacute;s sobre {{item.name}}</span>
                                 </v-tooltip>
                             </v-list-tile-action>
 
@@ -104,7 +104,7 @@
 
 <script>
 import ChapterDetails from '@/assets/data/chapterDetails.json'
-import { MeetupAPI } from '@/config/key'
+import pastEventDetails from '@/assets/data/pastEvents.json'
 export default {
     data() {
         return {
@@ -118,22 +118,11 @@ export default {
         }
     },
     created(){
-        fetch('https://cors-anywhere.herokuapp.com/https://api.meetup.com/'+MeetupAPI.urlname+'/events?desc=true&photo-host=public&page=8&status=past&sign=true').then(data=>data.json()).then(res=>{
-            if(res.length>0){
-                this.showLoader = false
-                this.showData = true
-                this.eventsData = res
-            }else{
-                this.notFoundPastEventFlag = true
-                this.showLoader = false
-            }
 
-        }).catch(e=>{
-            this.showLoader = false
-            this.errorMsg = 'Issue found with '+e
-            this.errorAlert = true
-            this.notFoundPastEventFlag = true
-        })
+      this.showLoader = false
+      this.showData = true
+      this.eventsData = pastEventDetails
+
     },
     methods:{
         getCharString(data){
@@ -153,7 +142,7 @@ export default {
 
         dateFilter: (value)=>{
             const date = new Date(value)
-            return date.toLocaleString(['en-US'], {month: 'short', day: '2-digit', year: 'numeric'})
+            return date.toLocaleString(['es-EN'], {month: 'short', day: '2-digit', year: 'numeric'})
         }
     }
 }

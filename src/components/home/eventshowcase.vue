@@ -166,7 +166,7 @@
 
 <script>
 import ChapterDetails from '@/assets/data/chapterDetails.json'
-import { MeetupAPI } from '@/config/key'
+import eventDetails from '@/assets/data/upcomingEvents.json'
 export default {
     data() {
         return {
@@ -180,22 +180,10 @@ export default {
         }
     },
     created(){
-        fetch('https://cors-anywhere.herokuapp.com/https://api.meetup.com/'+MeetupAPI.urlname+'/events?desc=true&photo-host=public&page=4&status=past&key='+MeetupAPI.apiKey).then(data=>data.json()).then(res=>{
-            if(res.length>0){
-                this.showLoader = false
-                this.showData = true
-                this.eventsData = res
-            }
-            else{
-                this.notFoundEventFlag = true
-                this.showLoader = false
-            }
-        }).catch(e=>{
-            this.showLoader = false
-            this.errorMsg = 'Issue found with '+e
-            this.errorAlert = true
-            this.notFoundEventFlag = true
-        })
+
+        this.showLoader = false
+        this.showData = true
+        this.eventsData = eventDetails
     },
     methods:{
         getCharString(data){

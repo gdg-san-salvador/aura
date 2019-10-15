@@ -1,0 +1,54 @@
+{
+  "0": {
+    "description": "GDG San Salvador, el Grupo de Desarrolladores Google de San Salvador, te invita a un evento especial dedicado a Web Developers. Ven y miremos juntos lo que esta sucediendo en el evento Chrome Dev Summit 2019. Aprende sobre la últimas técnicas en desarrollo para la Web, lo último en Progressive Web Apps, Web Assembly, herramientas como Chrome Dev Tools y más.",
+    "venue": {
+      "id": 26265307,
+      "name": "Applaudo Studios",
+      "lat": 13.694275856018066,
+      "lon": -89.2306900024414,
+      "repinned": false,
+      "city": "San Salvador",
+      "country": "sv",
+      "localized_country_name": "El Salvador"
+    },
+    "link": "https://www.meetup.com/GDG-SanSalvador/events/265662037/",
+    "name": "CDS Extended",
+    "local_time": "18:00",
+    "local_date": "2019-11-12"
+  },
+  "1": {
+    "description": "GDG San Salvador, el Grupo de Desarrolladores Google de San Salvador, te invita a un evento especial dedicado a Web Developers. Ven y miremos juntos lo que esta sucediendo en el evento Chrome Dev Summit 2019. Aprende sobre la últimas técnicas en desarrollo para la Web, lo último en Progressive Web Apps, Web Assembly, herramientas como Chrome Dev Tools y más.",
+    "venue": {
+      "id": 26269637,
+      "name": "San Salvador",
+      "lat": 13.692940711975098,
+      "lon": -89.21819305419922,
+      "repinned": true,
+      "city": "San Salvador",
+      "country": "sv",
+      "localized_country_name": "El Salvador"
+    },
+    "link": "https://www.meetup.com/GDG-SanSalvador/events/262332298/",
+    "name": "DevFest 2019",
+    "local_time": "08:00",
+    "local_date": "2019-11-23"
+  },
+  "2": {
+    "description": "Ven al primer evento de Women Techmakers San Salvador sólo para mujeres en tecnología y tómate un café, platica, aprende, inspírate y conversa libremente con mujeres Centroamericanas de gran trayectoria en este rubro.",
+    "venue": {
+      "id": 26673651,
+      "name": "POINT El Salvador",
+      "lat": 13.687302589416504,
+      "lon": -89.22566986083984,
+      "repinned": true,
+      "address_1": "Calle Los Castanos",
+      "city": "San Salvador",
+      "country": "sv",
+      "localized_country_name": "El Salvador"
+    },
+    "link": "https://www.meetup.com/GDG-SanSalvador/events/265519553/",
+    "name": "Café con WTM",
+    "local_time": "18:00",
+    "local_date": "2019-11-27"
+  }
+}

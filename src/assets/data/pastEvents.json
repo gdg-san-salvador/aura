@@ -1,0 +1,91 @@
+{
+  "0": {
+    "venue": {
+      "id": 26124328,
+      "name": "Banco Agricola Operations Center",
+      "lat": 13.700606346130371,
+      "lon": -89.22711944580078,
+      "repinned": true,
+      "address_1": "Pje Senda Florida Sur",
+      "city": "San Salvador",
+      "country": "sv",
+      "localized_country_name": "El Salvador"
+    },
+    "link": "https://www.meetup.com/GDG-SanSalvador/events/258475774/",
+    "name": "Relanzamiento del GDG San Salvador. Firebase ML Kit, Android Jetpack y Kotlin.",
+    "local_time": "17:30",
+    "local_date": "2019-02-07"
+  },
+  "1": {
+    "venue": {
+      "id": 26266687,
+      "name": "Telus Las Cascadas",
+      "lat": 13.67847728729248,
+      "lon": -89.25182342529297,
+      "repinned": true,
+      "city": "Cd Merliot",
+      "country": "sv",
+      "localized_country_name": "El Salvador"
+    },
+    "link": "https://www.meetup.com/GDG-SanSalvador/events/259962694/",
+    "name": "IWD Women Techmakers El Salvador 2019 [Joint Event + GDG La Libertad]",
+    "local_time": "08:00",
+    "local_date": "2019-04-06"
+  },
+  "2": {
+    "venue": {
+      "id": 26099368,
+      "name": "SEED ESCALON",
+      "lat": 13.706817626953125,
+      "lon": -89.25272369384766,
+      "repinned": true,
+      "address_1": "CP 1101",
+      "city": "San Salvador",
+      "country": "sv",
+      "localized_country_name": "El Salvador"
+    },
+    "link": "https://www.meetup.com/GDG-SanSalvador/events/259992972/",
+    "name": "Google I/O Extended San Salvador 2019",
+    "local_time": "17:00",
+    "local_date": "2019-07-12"
+  },
+  "3": {
+    "link": "https://www.meetup.com/GDG-SanSalvador/events/264501860/",
+    "name": "PyTorch Summer Hackathon #PTSH19",
+    "local_time": "14:00",
+    "local_date": "2019-09-02"
+  },
+  "4": {
+    "venue": {
+      "id": 26269637,
+      "name": "San Salvador",
+      "lat": 13.692940711975098,
+      "lon": -89.21819305419922,
+      "repinned": false,
+      "city": "San Salvador",
+      "country": "sv",
+      "localized_country_name": "El Salvador"
+    },
+    "link": "https://www.meetup.com/GDG-SanSalvador/events/264502613/",
+    "name": "Global Voice & Travel Hackathon SV 2019 🗣️🤖✈️",
+    "local_time": "18:00",
+    "local_date": "2019-09-20"
+  },
+  "5": {
+    "venue": {
+      "id": 26517079,
+      "name": "Elaniin - Tech Company",
+      "lat": 13.707316398620605,
+      "lon": -89.25146484375,
+      "repinned": true,
+      "address_1": "101 Avenida Norte #517",
+      "city": "San Salvador",
+      "country": "sv",
+      "localized_country_name": "El Salvador"
+    },
+    "link": "https://www.meetup.com/GDG-SanSalvador/events/262321457/",
+    "name": "Kotlin/Everywhere San Salvador 2019",
+    "local_time": "09:00",
+    "local_date": "2019-10-05"
+  }
+}
