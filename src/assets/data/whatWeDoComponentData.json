@@ -43,5 +43,10 @@
         "TechName":"Web",
         "image":"web-fundamentals.png",
         "link":"https://developers.google.com/web/"
+    },
+    {
+        "TechName":"Chrome Dev Tools y Chrome Browser",
+        "image":"chrome.svg",
+        "link":"https://developers.google.com/web/tools/chrome-devtools/"
     }
 ]

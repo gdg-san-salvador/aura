@@ -28,11 +28,11 @@
                     </span>
                 </p>
 
-                <v-btn :href="chapterDetails.ChapterMeetupLink" target="_blank" class="ma-0 google-font elevation-1" color="#1a73e8" style="text-transform: capitalize;border-radius:5px;color:white">Unirme</v-btn>
+                <v-btn :href="chapterDetails.ChapterMeetupLink" target="_blank" class="ma-0 google-font elevation-1" color="#1a73e8" style="text-transform: capitalize;border-radius:5px;color:white">Unirme a GDG San Salvador</v-btn>
 
                 &nbsp;
 
-                <v-btn :href="chapterDetails.GDGProgramWebsite" target="_blank" round color="cyan" style="text-transform: capitalize;border-radius:5px;text-transform: capitalize;" outline  class="ml-0" dark>Saber M&aacute;s</v-btn>
+                <v-btn :href="chapterDetails.GDGProgramWebsite" target="_blank" round color="cyan" style="text-transform: capitalize;border-radius:5px;text-transform: capitalize;" outline  class="ml-0" dark>Ver m&aacute;s sobre el Programa GDG</v-btn>
 
             </v-flex>
         </v-layout>

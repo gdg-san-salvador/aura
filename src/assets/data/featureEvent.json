@@ -10,8 +10,8 @@
         "StartTime":"08:00 AM",
         "EndTime":"06:00 PM"
     },
-    "EventVenue":"Por anunciarse.",
-    "EventVenueMapLink":"#",
+    "EventVenue":"Asociacion Salvadorena de Industirales (ASI)",
+    "EventVenueMapLink":"https://goo.gl/maps/ZbzbNrq6bmomdoP96",
     "EventWebsite":"https://devfest.gdgsansalvador.dev",
     "EventDescription":"Los DevFest son una verdadera celebración de la comunidad tecnológica y queremos que todas la comunidades activas de Desarrolladores de El Salvador participen. Durante el evento, tendremos charlas por expertos en desarrollo de software locales e Internacionales, talleres para aprender a usar diversas tecnologías y un hackathon con atractivos premios.",
     "MeetupLink":"https://www.meetup.com/GDG-SanSalvador/events/262332298/",
