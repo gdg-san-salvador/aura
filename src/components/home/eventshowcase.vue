@@ -64,7 +64,7 @@
                             <p class="google-font mb-0" style="font-size:130%">{{ item.name | summery(25) }}</p>
                             <p class="google-font mt-1 mb-0" style="font-size:110%">
                                 <v-icon small>insert_invitation</v-icon>
-                                {{item.local_date | dateFilter}}
+                                {{item.local_date}}
                             </p>
                             <p class="google-font mt-0 mb-0" style="font-size:110%">
                                 <v-icon small>watch_later</v-icon>
@@ -202,7 +202,7 @@ export default {
         },
         dateFilter: (value)=>{
             const date = new Date(value)
-            return date.toLocaleString(['en-US'], {month: 'short', day: '2-digit', year: 'numeric'})
+            return date.toLocaleString(['es-SV'], {month: 'short', day: '2-digit', year: 'numeric'})
         }
     }
 }
