@@ -3,6 +3,7 @@
         <v-layout wrap align-start justify-start row fill-height class="mt-0 mb-0">
             <v-flex xs12 class="mb-3">
                 <p class="google-font" style="font-size:130%;">Voluntarios(as)</p>
+                <p>Un merecido reconocimiento a los miembros de la comunidad que han colaborado en uno o m&aacute;s de nuestros eventos. ¡Gracias!</p>
                 <v-divider></v-divider>
             </v-flex>
             <v-flex xs12 md3 lg3 v-for="(item,i) in TeamDetails" :key="i">

@@ -1,21 +1,21 @@
 [
     {
-        "name":"Este podrías ser tu",
-        "designation":"Voluntario(a)",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":"avatar.png",
-        "website":""
+        "name":"Jhan Carlos Silva",
+        "designation":"Voluntario",
+        "twitter":"https://github.com/shankyJS",
+        "linkedin":"https://www.linkedin.com/in/jhan-carlos-silva-b28a4617b",
+        "github":"https://github.com/shankyJS",
+        "profileImage":"shankyJS.png",
+        "website":"shankyjs.me"
     },
     {
-        "name":"Este podrías ser tu",
-        "designation":"Voluntario(a)",
-        "twitter":"",
-        "linkedin":"",
+        "name":"Osvaldo Osorio Nolasco",
+        "designation":"Voluntario",
+        "twitter":"https://github.com/oswos",
+        "linkedin":"https://www.linkedin.com/in/oswos/",
         "github":"",
-        "profileImage":"avatar.png",
-        "website":""
+        "profileImage":"oswos.jpg",
+        "website":"https://dribbble.com/oswosmedia"
     },
     {
         "name":"Este podrías ser tu",

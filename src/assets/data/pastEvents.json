@@ -87,5 +87,21 @@
     "name": "Kotlin/Everywhere San Salvador 2019",
     "local_time": "09:00",
     "local_date": "2019-10-05"
+  },
+  "6": {
+    "venue": {
+      "id": 26265307,
+      "name": "Applaudo Studios",
+      "lat": 13.694275856018066,
+      "lon": -89.2306900024414,
+      "repinned": false,
+      "city": "San Salvador",
+      "country": "sv",
+      "localized_country_name": "El Salvador"
+    },
+    "link": "https://www.meetup.com/GDG-SanSalvador/events/265662037/",
+    "name": "CDS Extended",
+    "local_time": "18:00",
+    "local_date": "2019-11-12"
   }
 }
