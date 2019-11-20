@@ -1,74 +1,74 @@
 [
-    {
-        "name":"Jhan Carlos Silva",
-        "designation":"Voluntario",
-        "twitter":"https://github.com/shankyJS",
-        "linkedin":"https://www.linkedin.com/in/jhan-carlos-silva-b28a4617b",
-        "github":"https://github.com/shankyJS",
-        "profileImage":"shankyJS.png",
-        "website":"shankyjs.me"
-    },
-    {
-        "name":"Osvaldo Osorio Nolasco",
-        "designation":"Voluntario",
-        "twitter":"https://github.com/oswos",
-        "linkedin":"https://www.linkedin.com/in/oswos/",
-        "github":"",
-        "profileImage":"oswos.jpg",
-        "website":"https://dribbble.com/oswosmedia"
-    },
-    {
-        "name":"Amílcar Corpeño",
-        "designation":"Voluntario(a)",
-        "twitter":"https://twitter.com/Amilcar_SV",
-        "linkedin":"https://www.linkedin.com/in/amilcar-corpe%C3%B1o-a28106121",
-        "github":"https://github.com/amilcar503/",
-        "profileImage":"amilcarcorpeno.jpg",
-        "website":""
-    },
-    {
-        "name":"Este podrías ser tu",
-        "designation":"Voluntario(a)",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":"avatar.png",
-        "website":""
-    },
-    {
-        "name":"Este podrías ser tu",
-        "designation":"Voluntario(a)",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":"avatar.png",
-        "website":""
-    },
-    {
-        "name":"Este podrías ser tu",
-        "designation":"Voluntario(a)",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":"avatar.png",
-        "website":""
-    },
-    {
-        "name":"Este podrías ser tu",
-        "designation":"Voluntario(a)",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":"avatar.png",
-        "website":""
-    },
-    {
-        "name":"Este podrías ser tu",
-        "designation":"Voluntario(a)",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":"avatar.png",
-        "website":""
-    }
+  {
+    "name": "Amílcar Corpeño",
+    "designation": "Voluntario(a)",
+    "twitter": "https://twitter.com/Amilcar_SV",
+    "linkedin": "https://www.linkedin.com/in/amilcar-corpe%C3%B1o-a28106121",
+    "github": "https://github.com/amilcar503/",
+    "profileImage": "amilcarcorpeno.jpg",
+    "website": ""
+  },
+  {
+    "name": "Eduardo Imery",
+    "designation": "Voluntario(a)",
+    "twitter": "https://twitter.com/K4is3er",
+    "linkedin": "https://www.linkedin.com/in/eduardoimery/",
+    "github": "https://github.com/k4is3r",
+    "profileImage": "eduardoimery.jpg",
+    "website": "https://iwdevelop.com/"
+  },
+  {
+    "name": "Jhan Carlos Silva",
+    "designation": "Voluntario",
+    "twitter": "https://github.com/shankyJS",
+    "linkedin": "https://www.linkedin.com/in/jhan-carlos-silva-b28a4617b",
+    "github": "https://github.com/shankyJS",
+    "profileImage": "shankyJS.png",
+    "website": "shankyjs.me"
+  },
+  {
+    "name": "Osvaldo Osorio Nolasco",
+    "designation": "Voluntario",
+    "twitter": "https://github.com/oswos",
+    "linkedin": "https://www.linkedin.com/in/oswos/",
+    "github": "",
+    "profileImage": "oswos.jpg",
+    "website": "https://dribbble.com/oswosmedia"
+  },
+  {
+    "name": "Este podrías ser tu",
+    "designation": "Voluntario(a)",
+    "twitter": "",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "avatar.png",
+    "website": ""
+  },
+  {
+    "name": "Este podrías ser tu",
+    "designation": "Voluntario(a)",
+    "twitter": "",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "avatar.png",
+    "website": ""
+  },
+  {
+    "name": "Este podrías ser tu",
+    "designation": "Voluntario(a)",
+    "twitter": "",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "avatar.png",
+    "website": ""
+  },
+  {
+    "name": "Este podrías ser tu",
+    "designation": "Voluntario(a)",
+    "twitter": "",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "avatar.png",
+    "website": ""
+  }
 ]
