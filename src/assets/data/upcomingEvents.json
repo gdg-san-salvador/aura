@@ -1,55 +1,104 @@
 {
   "0": {
-    "description": "GDG San Salvador, el Grupo de Desarrolladores Google de San Salvador, te invita a un evento especial dedicado a Web Developers. Ven y miremos juntos lo que esta sucediendo en el evento Chrome Dev Summit 2019. Aprende sobre la últimas técnicas en desarrollo para la Web, lo último en Progressive Web Apps, Web Assembly, herramientas como Chrome Dev Tools y más.",
+    "local_date": "2020-03-14",
+    "local_time": "08:00",
+    "name": "IWD (International Women's Day) San Salvador 2020 [Tentativo]",
+    "link": "https://www.meetup.com/GDG-SanSalvador/events/268220422/",
     "venue": {
-      "id": 26640822,
-      "name": "Asociacion Salvadorena de Industriales (ASI)",
-      "lat": 13.695328712463379,
-      "lon": -89.2259292602539,
-      "repinned": true,
+      "id": 26269637,
+      "name": "San Salvador",
+      "lat": 13.692940711975098,
+      "lon": -89.21819305419922,
+      "repinned": false,
       "city": "San Salvador",
       "country": "sv",
       "localized_country_name": "El Salvador"
     },
-    "link": "https://www.meetup.com/GDG-SanSalvador/events/262332298/",
-    "name": "DevFest 2019",
-    "local_time": "08:00",
-    "local_date": "2019-11-23"
+    "description": "Nuestra celebración del International Women's Day (IWD) de 2020 con WomenTechmakers, evento oficial, parte de una serie de eventos a nivel mundial.Tendremos interesantes e inspiradoras charlas sobre diversas tecnologías de Google y otros por mujeres destacadas de software Salvadoreñas expertas en varias tecnologías y lenguajes de programación como Angular, Python, Flutter, etc... rifas y otras sorpresas. ¡Ven, comparte el conocimiento en tecnología, aprende y empoderate!"
   },
   "1": {
-    "description": "Ven al primer evento de Women Techmakers San Salvador sólo para mujeres en tecnología y tómate un café, platica, aprende, inspírate y conversa libremente con mujeres Centroamericanas de gran trayectoria en este rubro.",
+    "local_date": "2020-04-25",
+    "local_time": "08:00",
+    "name": "Cloud Next '20 Extended San Salvador [Tentativo]",
+    "link": "https://www.meetup.com/GDG-SanSalvador/events/268227117/",
     "venue": {
-      "id": 26673651,
-      "name": "POINT El Salvador",
-      "lat": 13.687302589416504,
-      "lon": -89.22566986083984,
+      "id": 26269637,
+      "name": "San Salvador",
+      "lat": 13.692940711975098,
+      "lon": -89.21819305419922,
       "repinned": true,
-      "address_1": "Calle Los Castanos",
       "city": "San Salvador",
       "country": "sv",
       "localized_country_name": "El Salvador"
     },
-    "link": "https://www.meetup.com/GDG-SanSalvador/events/265519553/",
-    "name": "Café con WTM",
-    "local_time": "18:00",
-    "local_date": "2019-11-27"
+    "description": "Conoce lo último en tecnologías en la Nube de Google. Aprende más sobre Kubernetes, Anthos, Serverless, DevOps, CI/CD, Cloud SQL y más."
   },
   "2": {
-    "description": "Reunámonos para ver el livestream y aprender sobre lo último de Dart y Flutter anunciado en el evento Flutter Interact 2019 y ver las sesiones mientras compartimos algunos bocadillos.",
+    "local_date": "2020-05-23",
+    "local_time": "08:00",
+    "name": "Google I/O 2020 Extended San Salvador [Tentativo]",
+    "link": "https://www.meetup.com/GDG-SanSalvador/events/268227189/",
     "venue": {
-      "id": 26673651,
-      "name": "A definirse",
-      "lat": 13.687302589416504,
-      "lon": -89.22566986083984,
+      "id": 26269637,
+      "name": "San Salvador",
+      "lat": 13.692940711975098,
+      "lon": -89.21819305419922,
       "repinned": true,
-      "address_1": "",
       "city": "San Salvador",
       "country": "sv",
       "localized_country_name": "El Salvador"
     },
-    "name": "Flutter Interact Viewing Party",
-    "link": "https://www.meetup.com/GDG-SanSalvador/events/266447365/",
-    "local_time": "09:00",
-    "local_date": "2019-12-14"
+    "description": "Repasemos juntos lo sucedido en el Google I/O y aprendamos sobre lo último en tecnologías de Google para desarrollo móvil, Web, multi plataforma, la Nube y más."
+  },
+  "3": {
+    "local_date": "2020-10-10",
+    "local_time": "08:00",
+    "name": "DevFest San Salvador 2020 [Tentativo]",
+    "link": "https://www.meetup.com/GDG-SanSalvador/events/268227874/",
+    "venue": {
+      "id": 26269637,
+      "name": "San Salvador",
+      "lat": 13.692940711975098,
+      "lon": -89.21819305419922,
+      "repinned": true,
+      "city": "San Salvador",
+      "country": "sv",
+      "localized_country_name": "El Salvador"
+    },
+    "description": "¡Vuelve a El Salvador, la más grande fiesta de los desarrolladores a nivel mundial! Ven y aprende sobre lo último en tecnologías Web, móviles, Cloud, multi plataforma, hardware, ciberseguridad, y más."
+  },
+  "4": {
+    "local_date": "2020-11-21",
+    "local_time": "08:00",
+    "name": "Chrome Developer Summit Extended San Salvador 2020 [Tentativo]",
+    "link": "https://www.meetup.com/GDG-SanSalvador/events/268228015/",
+    "venue": {
+      "id": 26269637,
+      "name": "San Salvador",
+      "lat": 13.692940711975098,
+      "lon": -89.21819305419922,
+      "repinned": true,
+      "city": "San Salvador",
+      "country": "sv",
+      "localized_country_name": "El Salvador"
+    },
+    "description": "Chrome Dev Summit Extended 2020 llega de nuevo a San Salvador. Todo un día de charlas y talleres donde platicaremos de todo lo nuevo que en estándares y tecnologías para la Web y más."
+  },
+  "5": {
+    "local_date": "2020-12-12",
+    "local_time": "08:00",
+    "name": "Flutter Interact '20 Viewing Party San Salvador [Tentativo]",
+    "link": "https://www.meetup.com/GDG-SanSalvador/events/268228099/",
+    "venue": {
+      "id": 26269637,
+      "name": "San Salvador",
+      "lat": 13.692940711975098,
+      "lon": -89.21819305419922,
+      "repinned": false,
+      "city": "San Salvador",
+      "country": "sv",
+      "localized_country_name": "El Salvador"
+    },
+    "description": "Veamos juntos lo sucedido en el Flutter Interact 2020 y aprendamos de lo último en Flutter y el lenguaje de programación Dart y su crecimiento en 2020 en desarrollo de apps para toda plataforma imaginable."
   }
 }

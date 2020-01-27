@@ -14,13 +14,23 @@
             "icon" : "fab fa-meetup"
         },
         {
-            "name" : "Twitter",
+            "name" : "Twitter GDG San Salvador",
             "link" : "https://twitter.com/gdgsansalvador",
             "icon" : "fab fa-twitter"
         },
         {
-            "name" : "Instagram",
+            "name" : "Instagram GDG San Salvador",
             "link" : "https://www.instagram.com/gdgsansalvador/",
+            "icon" : "fab fa-instagram"
+        },
+        {
+            "name" : "Twitter WTM San Salvador",
+            "link" : "https://twitter.com/wtmsansalvador",
+            "icon" : "fab fa-twitter"
+        },
+        {
+            "name" : "Instagram WTM San Salvador",
+            "link" : "https://www.instagram.com/wtmsansalvador/",
             "icon" : "fab fa-instagram"
         },
         {
@@ -35,7 +45,7 @@
         },
         {
             "name" : "Slack",
-            "link" : "http://bit.ly/gdgsansal-slack",
+            "link" : "https://gdgsansalvador.slack.com/",
             "icon" : "fab fa-slack"
         },
         {

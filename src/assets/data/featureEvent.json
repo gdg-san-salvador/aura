@@ -1,20 +1,20 @@
 {
-    "FeatureEventName":"DevFest San Salvador 2019",
-    "EventImage":"devfestss2019.jpg",
+    "FeatureEventName":"IWD (International Women's Day) San Salvador 2020",
+    "EventImage":"iwdss2020.png",
     "EventDate":{
-        "Date":"23",
-        "Month":"11",
-        "Year":"2019"
+        "Date":"14",
+        "Month":"3",
+        "Year":"2020"
     },
     "EventTime":{
-        "StartTime":"08:00 AM",
-        "EndTime":"06:00 PM"
+        "StartTime":"08:00",
+        "EndTime":"18:00"
     },
-    "EventVenue":"Asociacion Salvadorena de Industirales (ASI)",
-    "EventVenueMapLink":"https://goo.gl/maps/ZbzbNrq6bmomdoP96",
-    "EventWebsite":"https://devfest.gdgsansalvador.dev",
-    "EventDescription":"Los DevFest son una verdadera celebración de la comunidad tecnológica y queremos que todas la comunidades activas de Desarrolladores de El Salvador participen. Durante el evento, tendremos charlas por expertos en desarrollo de software locales e Internacionales, talleres para aprender a usar diversas tecnologías y un hackathon con atractivos premios.",
-    "MeetupLink":"https://www.meetup.com/GDG-SanSalvador/events/262332298/",
-    "RegistrationLink":"https://www.meetup.com/GDG-SanSalvador/events/262332298/",
-    "FBEventPageURL":"https://www.facebook.com/events/709091419549742/"
+    "EventVenue":"A definirse.",
+    "EventVenueMapLink":"",
+    "EventWebsite":"",
+    "EventDescription":"Nuestra celebración del International Women's Day (IWD) de 2020 con WomenTechmakers, evento oficial, parte de una serie de eventos a nivel mundial.Tendremos interesantes e inspiradoras charlas sobre diversas tecnologías de Google y otros por mujeres destacadas de software Salvadoreñas expertas en varias tecnologías y lenguajes de programación como Angular, Python, Flutter, etc... rifas y otras sorpresas. ¡Ven, comparte el conocimiento en tecnología, aprende y empoderate!",
+    "MeetupLink":"https://www.meetup.com/GDG-SanSalvador/events/268220422/",
+    "RegistrationLink":"https://www.meetup.com/GDG-SanSalvador/events/268220422/",
+    "FBEventPageURL":""
 }

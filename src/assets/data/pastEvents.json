@@ -103,5 +103,58 @@
     "name": "CDS Extended",
     "local_time": "18:00",
     "local_date": "2019-11-12"
+  },
+  "7": {
+    "description": "GDG San Salvador, el Grupo de Desarrolladores Google de San Salvador, te invita a un evento especial dedicado a Web Developers. Ven y miremos juntos lo que esta sucediendo en el evento Chrome Dev Summit 2019. Aprende sobre la últimas técnicas en desarrollo para la Web, lo último en Progressive Web Apps, Web Assembly, herramientas como Chrome Dev Tools y más.",
+    "venue": {
+      "id": 26640822,
+      "name": "Asociacion Salvadorena de Industriales (ASI)",
+      "lat": 13.695328712463379,
+      "lon": -89.2259292602539,
+      "repinned": true,
+      "city": "San Salvador",
+      "country": "sv",
+      "localized_country_name": "El Salvador"
+    },
+    "link": "https://www.meetup.com/GDG-SanSalvador/events/262332298/",
+    "name": "DevFest San Salvador 2019",
+    "local_time": "08:00",
+    "local_date": "2019-11-23"
+  },
+  "8": {
+    "description": "Ven al primer evento de WomenTechmakers San Salvador sólo para mujeres en tecnología y tómate un café, platica, aprende, inspírate y conversa libremente con mujeres Centroamericanas de gran trayectoria en este rubro.",
+    "venue": {
+      "id": 26673651,
+      "name": "POINT El Salvador",
+      "lat": 13.687302589416504,
+      "lon": -89.22566986083984,
+      "repinned": true,
+      "address_1": "Calle Los Castanos",
+      "city": "San Salvador",
+      "country": "sv",
+      "localized_country_name": "El Salvador"
+    },
+    "link": "https://www.meetup.com/GDG-SanSalvador/events/265519553/",
+    "name": "Café con WomenTechmakers San Salvador",
+    "local_time": "17:30",
+    "local_date": "2019-11-27"
+  },
+  "9": {
+    "description": "Reunámonos para ver lo sucedido en el último Flutter Interact y aprender juntos sobre lo último de Dart y Flutter anunciado en ese event y ver algunas de las sesiones mientras compartimos unos bocadillos.",
+    "venue": {
+      "id": 26768527,
+      "name": "Condominio Cielos de la Escalón",
+      "lat": 13.712812423706055,
+      "lon": -89.23805236816406,
+      "repinned": true,
+      "address_1": "",
+      "city": "San Salvador",
+      "country": "sv",
+      "localized_country_name": "El Salvador"
+    },
+    "link": "https://www.meetup.com/GDG-SanSalvador/events/267096757/",
+    "name": "Flutter Interact Viewing Party",
+    "local_time": "09:00",
+    "local_date": "2020-1-18"
   }
 }
