@@ -14,7 +14,7 @@
     "link": "https://www.meetup.com/GDG-SanSalvador/events/258475774/",
     "name": "Relanzamiento del GDG San Salvador. Firebase ML Kit, Android Jetpack y Kotlin.",
     "local_time": "17:30",
-    "local_date": "2019-02-07"
+    "local_date": "2019-02-08"
   },
   "1": {
     "venue": {
@@ -30,7 +30,7 @@
     "link": "https://www.meetup.com/GDG-SanSalvador/events/259962694/",
     "name": "IWD Women Techmakers El Salvador 2019 [Joint Event + GDG La Libertad]",
     "local_time": "08:00",
-    "local_date": "2019-04-06"
+    "local_date": "2019-04-07"
   },
   "2": {
     "venue": {
@@ -53,7 +53,7 @@
     "link": "https://www.meetup.com/GDG-SanSalvador/events/264501860/",
     "name": "PyTorch Summer Hackathon #PTSH19",
     "local_time": "14:00",
-    "local_date": "2019-09-02"
+    "local_date": "2019-09-03"
   },
   "4": {
     "venue": {
@@ -69,7 +69,7 @@
     "link": "https://www.meetup.com/GDG-SanSalvador/events/264502613/",
     "name": "Global Voice & Travel Hackathon SV 2019 🗣️🤖✈️",
     "local_time": "18:00",
-    "local_date": "2019-09-20"
+    "local_date": "2019-09-21"
   },
   "5": {
     "venue": {
@@ -86,7 +86,7 @@
     "link": "https://www.meetup.com/GDG-SanSalvador/events/262321457/",
     "name": "Kotlin/Everywhere San Salvador 2019",
     "local_time": "09:00",
-    "local_date": "2019-10-05"
+    "local_date": "2019-10-06"
   },
   "6": {
     "venue": {
@@ -102,7 +102,7 @@
     "link": "https://www.meetup.com/GDG-SanSalvador/events/265662037/",
     "name": "CDS Extended",
     "local_time": "18:00",
-    "local_date": "2019-11-12"
+    "local_date": "2019-11-13"
   },
   "7": {
     "description": "GDG San Salvador, el Grupo de Desarrolladores Google de San Salvador, te invita a un evento especial dedicado a Web Developers. Ven y miremos juntos lo que esta sucediendo en el evento Chrome Dev Summit 2019. Aprende sobre la últimas técnicas en desarrollo para la Web, lo último en Progressive Web Apps, Web Assembly, herramientas como Chrome Dev Tools y más.",
@@ -119,7 +119,7 @@
     "link": "https://www.meetup.com/GDG-SanSalvador/events/262332298/",
     "name": "DevFest San Salvador 2019",
     "local_time": "08:00",
-    "local_date": "2019-11-23"
+    "local_date": "2019-11-24"
   },
   "8": {
     "description": "Ven al primer evento de WomenTechmakers San Salvador sólo para mujeres en tecnología y tómate un café, platica, aprende, inspírate y conversa libremente con mujeres Centroamericanas de gran trayectoria en este rubro.",
@@ -137,7 +137,7 @@
     "link": "https://www.meetup.com/GDG-SanSalvador/events/265519553/",
     "name": "Café con WomenTechmakers San Salvador",
     "local_time": "17:30",
-    "local_date": "2019-11-27"
+    "local_date": "2019-11-28"
   },
   "9": {
     "description": "Reunámonos para ver lo sucedido en el último Flutter Interact y aprender juntos sobre lo último de Dart y Flutter anunciado en ese event y ver algunas de las sesiones mientras compartimos unos bocadillos.",
@@ -156,5 +156,22 @@
     "name": "Flutter Interact Viewing Party",
     "local_time": "09:00",
     "local_date": "2020-1-18"
+  },
+  "10": {
+    "description": "Nuestra celebración del International Womens Day (IWD) de 2020 con Women Techmakers, un evento online oficial, parte de una serie de eventos a nivel mundial celebrando a la mujer en tecnología.",
+    "venue": {
+      "id": 270466034,
+      "name": "Evento gratuito y 100% en línea via Facebook LIVE y YouTube LIVE.",
+      "lat": 13.692940711975098,
+      "lon": -89.21819305419922,
+      "repinned": false,
+      "city": "San Salvador",
+      "country": "sv",
+      "localized_country_name": "El Salvador"
+    },
+    "link": "https://www.meetup.com/GDG-SanSalvador/events/270466034/",
+    "name": "IWD 2020 San Salvador",
+    "local_time": "08:00",
+    "local_date": "2020-05-17"
   }
 }

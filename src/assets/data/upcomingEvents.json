@@ -1,29 +1,29 @@
 {
   "0": {
-    "local_date": "2020-03-14",
+    "local_date": "2020-06-06",
     "local_time": "08:00",
-    "name": "IWD (International Women's Day) San Salvador 2020 [Tentativo]",
-    "link": "https://www.meetup.com/GDG-SanSalvador/events/268220422/",
+    "name": "Android 11 Meetup San Salvador",
+    "link": "https://www.meetup.com/GDG-SanSalvador/events/270679253/",
     "venue": {
-      "id": 26269637,
-      "name": "San Salvador",
+      "id": 270679253,
+      "name": "Evento gratuito y 100% en línea via Facebook LIVE y YouTube LIVE.",
       "lat": 13.692940711975098,
       "lon": -89.21819305419922,
-      "repinned": false,
+      "repinned": true,
       "city": "San Salvador",
       "country": "sv",
       "localized_country_name": "El Salvador"
     },
-    "description": "Nuestra celebración del International Women's Day (IWD) de 2020 con WomenTechmakers, evento oficial, parte de una serie de eventos a nivel mundial.Tendremos interesantes e inspiradoras charlas sobre diversas tecnologías de Google y otros por mujeres destacadas de software Salvadoreñas expertas en varias tecnologías y lenguajes de programación como Angular, Python, Flutter, etc... rifas y otras sorpresas. ¡Ven, comparte el conocimiento en tecnología, aprende y empoderate!"
+    "description": "Este evento es parte de una serie Global de eventos de Google dirigidos principalmente a desarrolladores Android que estén interesados en asegurarse de que sus aplicaciones o juegos funcionen bien en la última versión de Android."
   },
   "1": {
-    "local_date": "2020-04-25",
+    "local_date": "2020-07-04",
     "local_time": "08:00",
-    "name": "Cloud Next '20 Extended San Salvador [Tentativo]",
-    "link": "https://www.meetup.com/GDG-SanSalvador/events/268227117/",
+    "name": "Firebase Study Jam San Salvador",
+    "link": "https://www.meetup.com/GDG-SanSalvador/events/270687241/",
     "venue": {
-      "id": 26269637,
-      "name": "San Salvador",
+      "id": 270687241,
+      "name": "Evento gratuito y 100% en línea via Facebook LIVE y YouTube LIVE.",
       "lat": 13.692940711975098,
       "lon": -89.21819305419922,
       "repinned": true,
@@ -31,16 +31,16 @@
       "country": "sv",
       "localized_country_name": "El Salvador"
     },
-    "description": "Conoce lo último en tecnologías en la Nube de Google. Aprende más sobre Kubernetes, Anthos, Serverless, DevOps, CI/CD, Cloud SQL y más."
+    "description": "Aprende a usar Firebase para tus proyectos Web, Android, iOS y/o Flutter. Tendremos charlas y talleres impartido por desarrolladores con amplia experiencia usando Firebase."
   },
   "2": {
-    "local_date": "2020-05-23",
+    "local_date": "2020-09-08",
     "local_time": "08:00",
-    "name": "Google I/O 2020 Extended San Salvador [Tentativo]",
-    "link": "https://www.meetup.com/GDG-SanSalvador/events/268227189/",
+    "name": "AMP Sudy Jam San Salvador",
+    "link": "https://www.meetup.com/GDG-SanSalvador/events/270687265/",
     "venue": {
-      "id": 26269637,
-      "name": "San Salvador",
+      "id": 270687265,
+      "name": "Evento gratuito y 100% en línea via Facebook LIVE y YouTube LIVE.",
       "lat": 13.692940711975098,
       "lon": -89.21819305419922,
       "repinned": true,
@@ -48,32 +48,15 @@
       "country": "sv",
       "localized_country_name": "El Salvador"
     },
-    "description": "Repasemos juntos lo sucedido en el Google I/O y aprendamos sobre lo último en tecnologías de Google para desarrollo móvil, Web, multi plataforma, la Nube y más."
+    "description": "Esta es una gran oportunidad para reunirte con miembros de la comunidad y aprender sobre AMP."
   },
   "3": {
-    "local_date": "2020-10-10",
-    "local_time": "08:00",
-    "name": "DevFest San Salvador 2020 [Tentativo]",
-    "link": "https://www.meetup.com/GDG-SanSalvador/events/268227874/",
-    "venue": {
-      "id": 26269637,
-      "name": "San Salvador",
-      "lat": 13.692940711975098,
-      "lon": -89.21819305419922,
-      "repinned": true,
-      "city": "San Salvador",
-      "country": "sv",
-      "localized_country_name": "El Salvador"
-    },
-    "description": "¡Vuelve a El Salvador, la más grande fiesta de los desarrolladores a nivel mundial! Ven y aprende sobre lo último en tecnologías Web, móviles, Cloud, multi plataforma, hardware, ciberseguridad, y más."
-  },
-  "4": {
     "local_date": "2020-11-21",
     "local_time": "08:00",
     "name": "Chrome Developer Summit Extended San Salvador 2020 [Tentativo]",
     "link": "https://www.meetup.com/GDG-SanSalvador/events/268228015/",
     "venue": {
-      "id": 26269637,
+      "id": 268228015,
       "name": "San Salvador",
       "lat": 13.692940711975098,
       "lon": -89.21819305419922,
@@ -84,13 +67,13 @@
     },
     "description": "Chrome Dev Summit Extended 2020 llega de nuevo a San Salvador. Todo un día de charlas y talleres donde platicaremos de todo lo nuevo que en estándares y tecnologías para la Web y más."
   },
-  "5": {
+  "4": {
     "local_date": "2020-12-12",
     "local_time": "08:00",
     "name": "Flutter Interact '20 Viewing Party San Salvador [Tentativo]",
     "link": "https://www.meetup.com/GDG-SanSalvador/events/268228099/",
     "venue": {
-      "id": 26269637,
+      "id": 268228099,
       "name": "San Salvador",
       "lat": 13.692940711975098,
       "lon": -89.21819305419922,

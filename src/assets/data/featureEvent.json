@@ -1,20 +1,20 @@
 {
-    "FeatureEventName":"IWD (International Women's Day) San Salvador 2020",
-    "EventImage":"iwdss2020.png",
+    "FeatureEventName":"Android 11 Meetup San Salvador",
+    "EventImage":"android11Meetups.png",
     "EventDate":{
-        "Date":"14",
-        "Month":"3",
+        "Date":"6",
+        "Month":"6",
         "Year":"2020"
     },
     "EventTime":{
         "StartTime":"08:00",
-        "EndTime":"18:00"
+        "EndTime":"12:00"
     },
-    "EventVenue":"A definirse.",
+    "EventVenue":"Evento gratuito y 100% en línea via YouTube LIVE y Facebook LIVE.",
     "EventVenueMapLink":"",
     "EventWebsite":"",
-    "EventDescription":"Nuestra celebración del International Women's Day (IWD) de 2020 con WomenTechmakers, evento oficial, parte de una serie de eventos a nivel mundial.Tendremos interesantes e inspiradoras charlas sobre diversas tecnologías de Google y otros por mujeres destacadas de software Salvadoreñas expertas en varias tecnologías y lenguajes de programación como Angular, Python, Flutter, etc... rifas y otras sorpresas. ¡Ven, comparte el conocimiento en tecnología, aprende y empoderate!",
-    "MeetupLink":"https://www.meetup.com/GDG-SanSalvador/events/268220422/",
-    "RegistrationLink":"https://www.meetup.com/GDG-SanSalvador/events/268220422/",
+    "EventDescription":"Este evento es parte de una serie Global de eventos de Google dirigidos principalmente a desarrolladores Android que estén interesados en asegurarse de que sus aplicaciones o juegos funcionen bien en la última versión de Android.",
+    "MeetupLink":"https://www.meetup.com/GDG-SanSalvador/events/270679253/",
+    "RegistrationLink":"https://www.meetup.com/GDG-SanSalvador/events/270679253/",
     "FBEventPageURL":""
 }
