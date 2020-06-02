@@ -1,8 +1,8 @@
 {
     "FeatureEventName":"Android 11 Meetup San Salvador",
-    "EventImage":"android11Meetups.png",
+    "EventImage":"android11MeetupsPostponed.png",
     "EventDate":{
-        "Date":"6",
+        "Date":"27",
         "Month":"6",
         "Year":"2020"
     },
@@ -13,7 +13,7 @@
     "EventVenue":"Evento gratuito y 100% en línea via YouTube LIVE y Facebook LIVE.",
     "EventVenueMapLink":"",
     "EventWebsite":"",
-    "EventDescription":"Este evento es parte de una serie Global de eventos de Google dirigidos principalmente a desarrolladores Android que estén interesados en asegurarse de que sus aplicaciones o juegos funcionen bien en la última versión de Android.",
+    "EventDescription":"Importante: Evento pospuesto hasta nuevo aviso. Fecha tentativa: 27-06-2020. Este evento es parte de una serie Global de eventos de Google dirigidos principalmente a desarrolladores Android que estén interesados en asegurarse de que sus aplicaciones o juegos funcionen bien en la última versión de Android.",
     "MeetupLink":"https://www.meetup.com/GDG-SanSalvador/events/270679253/",
     "RegistrationLink":"https://www.meetup.com/GDG-SanSalvador/events/270679253/",
     "FBEventPageURL":""
