@@ -1,29 +1,12 @@
 {
   "0": {
-    "local_date": "2020-07-04",
-    "local_time": "09:00",
-    "name": "Android 11 Meetup San Salvador",
-    "link": "https://www.meetup.com/GDG-SanSalvador/events/270679253/",
-    "venue": {
-      "id": 270679253,
-      "name": "Evento gratuito y 100% en línea via Facebook LIVE y YouTube LIVE.",
-      "lat": 13.692940711975098,
-      "lon": -89.21819305419922,
-      "repinned": true,
-      "city": "San Salvador",
-      "country": "sv",
-      "localized_country_name": "El Salvador"
-    },
-    "description": "Este evento es parte de una serie Global de eventos de Google dirigidos principalmente a desarrolladores Android que estén interesados en asegurarse de que sus aplicaciones o juegos funcionen bien en la última versión de Android."
-  },
-  "1": {
     "local_date": "2020-07-18",
-    "local_time": "08:00",
+    "local_time": "09:00",
     "name": "Firebase Study Jam San Salvador",
     "link": "https://www.meetup.com/GDG-SanSalvador/events/270687241/",
     "venue": {
       "id": 270687241,
-      "name": "Evento gratuito y 100% en línea via Facebook LIVE y YouTube LIVE.",
+      "name": "Evento gratuito y 100% en línea via Google Meet.",
       "lat": 13.692940711975098,
       "lon": -89.21819305419922,
       "repinned": true,
@@ -31,9 +14,9 @@
       "country": "sv",
       "localized_country_name": "El Salvador"
     },
-    "description": "Aprende a usar Firebase para tus proyectos Web, Android, iOS y/o Flutter. Tendremos charlas y talleres impartido por desarrolladores con amplia experiencia usando Firebase."
+    "description": "Aprende a usar Firebase para tus proyectos Web, Android e iOS. Tendremos charlas y talleres impartido por desarrolladores con amplia experiencia usando Firebase."
   },
-  "2": {
+  "1": {
     "local_date": "2020-09-08",
     "local_time": "08:00",
     "name": "AMP Sudy Jam San Salvador",
@@ -50,7 +33,7 @@
     },
     "description": "Esta es una gran oportunidad para reunirte con miembros de la comunidad y aprender sobre AMP."
   },
-  "3": {
+  "2": {
     "local_date": "2020-11-21",
     "local_time": "08:00",
     "name": "Chrome Developer Summit Extended San Salvador 2020 [Tentativo]",
@@ -67,7 +50,7 @@
     },
     "description": "Chrome Dev Summit Extended 2020 llega de nuevo a San Salvador. Todo un día de charlas y talleres donde platicaremos de todo lo nuevo que en estándares y tecnologías para la Web y más."
   },
-  "4": {
+  "3": {
     "local_date": "2020-12-12",
     "local_time": "08:00",
     "name": "Flutter Interact '20 Viewing Party San Salvador [Tentativo]",

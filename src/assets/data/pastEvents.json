@@ -173,5 +173,22 @@
     "name": "IWD 2020 San Salvador",
     "local_time": "08:00",
     "local_date": "2020-05-17"
+  },
+  "11": {
+    "description": "Este evento es parte de una serie Global de eventos de Google dirigidos principalmente a desarrolladores Android que estén interesados en asegurarse de que sus aplicaciones o juegos funcionen bien en la última versión de Android.",
+    "venue": {
+      "id": 270679253,
+      "name": "Evento gratuito y 100% en línea via Facebook LIVE y YouTube LIVE.",
+      "lat": 13.692940711975098,
+      "lon": -89.21819305419922,
+      "repinned": false,
+      "city": "San Salvador",
+      "country": "sv",
+      "localized_country_name": "El Salvador"
+    },
+    "link": "https://www.meetup.com/GDG-SanSalvador/events/270679253/",
+    "name": "Android 11 Meetup San Salvador",
+    "local_date": "2020-07-04",
+    "local_time": "09:00"
   }
 }
